@@ -162,3 +162,5 @@ cython_debug/
 # Self defined
 *.db
 sp_ffn
+.DS_Store
+*Db.*
