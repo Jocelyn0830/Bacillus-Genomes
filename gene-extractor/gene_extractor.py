@@ -50,16 +50,17 @@ def createData(filename):
 
 if __name__ == "__main__":
     directory = input("Please type directory name: ")
+    db_name = input("Please type database name: ")
     for filename in os.listdir(directory):
         if filename == ".DS_Store":
             continue
         f = os.path.join(directory, filename)
         if os.path.isfile(f):
             data = createData(f)
-            con = sqlite3.connect("gene.db")
+            con = sqlite3.connect(db_name + ".db")
             cur = con.cursor()
             cur.executemany(
                 "INSERT or IGNORE INTO gene VALUES(?, ?, ?, ?)", data)
             con.commit()
-            res = cur.execute("SELECT sequence_id FROM gene")
-            print(res.fetchall())
+            # res = cur.execute("SELECT sequence_id FROM gene")
+            # print(res.fetchall())
