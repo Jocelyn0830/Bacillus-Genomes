@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Self defined
-.db
+*.db
 sp_ffn
