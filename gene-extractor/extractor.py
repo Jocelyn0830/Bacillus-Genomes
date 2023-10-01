@@ -29,7 +29,7 @@ def fasta2dict(fil):
 def parse_filename(filename):
     only_fname = filename.split("/")[1]
     first_b = only_fname.find('[')
-    sec_b = only_fname.find('.')
+    sec_b = only_fname.find(']')
     fname = only_fname[first_b+1:sec_b]
 
     return fname
