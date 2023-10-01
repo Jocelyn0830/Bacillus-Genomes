@@ -26,10 +26,20 @@ def fasta2dict(fil):
     return dic
 
 
-def createData(filename, sequence_id):
+def parse_filename(filename):
+    only_fname = filename.split("/")[1]
+    first_b = only_fname.find('[')
+    sec_b = only_fname.find('.')
+    fname = only_fname[first_b+1:sec_b]
+
+    return fname
+
+
+def createData(filename):
     gene_dict = fasta2dict(filename)
     data = []
     for header, content in gene_dict.items():
+        sequence_id = parse_filename(filename)
         header_split = header.split(" ")
         gene_id = header_split[0].replace(">", "")
         name = " ".join(header_split[1:])
@@ -45,7 +55,7 @@ if __name__ == "__main__":
             continue
         f = os.path.join(directory, filename)
         if os.path.isfile(f):
-            data = createData(f, filename.replace(".fasta", ""))
+            data = createData(f)
             con = sqlite3.connect("gene.db")
             cur = con.cursor()
             cur.executemany(
