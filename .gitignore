@@ -162,5 +162,7 @@ cython_debug/
 # Self defined
 *.db
 .DS_Store
-spi_ffn
-absence_presence
+data
+test
+.RData
+.Rhistory

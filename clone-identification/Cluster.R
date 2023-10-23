@@ -1,12 +1,11 @@
 library(dplyr)
 library(RFLPtools)
-setwd("/Users/jocelynwang/Desktop/WES/Summer2022-cohan/genome/Clone-identification")
 
-x <- c(13, 101, 102, 104, 109, 110, 111, 112, 113, 114, 115, 12, 15, 16, 18, 22, 23, 37, 60, 99)
-# x <- c(3)
-species = "atrophaeus"
+# sp
+x <- c(12, 118, 122, 121, 63, 78, 81, 65, 67, 68, 70, 72, 73, 47, 119, 9, 10, 1, 3, 5, 6, 8, 43, 44, 46, 54, 57, 59, 60, 61, 74, 87, 89, 92, 93, 98, 100, 30, 31)
+species = "sp"
 for (val in x) {
-  s <- paste(species, "_collection", as.character(val), "_matrix.csv", sep ="")
+  s <- paste(species, "_Collection", as.character(val), "_matrix.csv", sep ="")
   temp = read.csv(s, sep=",", row.names=1)
   matrix <- as.matrix(temp) 
   matrix <- as.dist(matrix)
