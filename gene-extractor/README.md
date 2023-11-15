@@ -1,7 +1,8 @@
 # gene-extractor
 
 To extract genes in core genome alignment
-    (1) you need download all ffn files output by Prokka
+- you need download all ffn files output by Prokka
+- download Core Gene Alignment file and Absence Presence csv file output by Roary
 
 Instructions for running gene-extractor program
 - Run `CreateDB.py` to create a database and a table

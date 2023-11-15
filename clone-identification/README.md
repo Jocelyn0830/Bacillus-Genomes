@@ -1,8 +1,8 @@
 # clone-identification
 
 Before identifying clones, you need
-    (1) error rate file - output of ComputeER
-    (2) environmental data file
+- error rate file - output of `ComputeER.py`
+- environmental data file
 
 Instructions for running clone-identification program
 - Run `AddCollectionId.py` to get environmental data file with collection site ids
