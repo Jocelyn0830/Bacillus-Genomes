@@ -46,7 +46,7 @@ def createData(filename, para):
     gene_dict = FastaToDict.fastaToDict(filename)
     data = []
     if para == 'y':
-        core_gene_set = findCoreGenes("ap_Absece_Presence.csv")
+        core_gene_set = findCoreGenes("sp_Absence_Presence.csv")
 
     for header, content in gene_dict.items():
         sequence_id = parseFilename(filename)

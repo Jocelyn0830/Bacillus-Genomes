@@ -14,9 +14,9 @@ Instructions for running gene-extractor program
         Please type database name:
     - Input name of your directory that contains all ffn files (Your directory must be in the same directory where you put `GeneExtractor.py`)
         Please type database name:
-- Run `CoreGeneExtractor.py` to create fasta files of all core genes (one for each)
+- Run `CoreGeneExtractor.py` to create fasta files of all core genes (one for each) of your selected strain
 - Run `GetOneCBP.py` to get fasta file of one strain in core genome alignment
 - Run `./RunBlastn.sh` to run Blastn on all query core genes (output of `CoreGeneExtractor.py`) and your subject strain file (only one strain, output of `GetOneCBP.py`)
     - if you want to modify, run `chmod +x RunBlastn.sh` to complie it before running it
-
+- Run `AddRealGenes.py`
     

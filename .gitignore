@@ -166,3 +166,12 @@ data
 test
 .RData
 .Rhistory
+result
+.fasta
+ap-fake
+ap-real
+ia-fake
+ia-real
+sp-real
+sp-fake
+.fasta

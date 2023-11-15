@@ -70,7 +70,7 @@ def compute_ER(filename, para):
             writer.writerow(L)
 
 
-filename = "sp_wo_amy.fasta"
+filename = "ia_Core_Gene_Alignment.fasta"
 # input("Please type the filename to compute error rate: ")
 user_choice = input(
     "Please indicate if you want to include the environmental data (y/n): ")

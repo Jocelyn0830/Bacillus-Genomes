@@ -16,7 +16,7 @@ for entry in "$input_dir"/*
         file_name=$(basename "$entry")
 
         # your subject file
-        file="CBP-1645.fasta"
+        file="CBP-1723.fasta"
 
         # your output file name
         output_file="$output_dir/${file_name%.fasta}_pos.json"

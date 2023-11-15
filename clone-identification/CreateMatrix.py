@@ -3,7 +3,7 @@ import csv
 
 # Write an errorate dictionary (clones.csv does not have all error rates)
 errorrate = {}
-with open("sp_errorrate.csv") as errfile:
+with open("ap_errorrate.csv") as errfile:
     errreader = csv.DictReader(errfile)
     next(errreader)
     for row in errreader:
@@ -11,7 +11,7 @@ with open("sp_errorrate.csv") as errfile:
 
 # Find all pairs of strains
 strain = defaultdict(dict)
-with open("sp_clones.csv") as file:
+with open("ap_clones.csv") as file:
     csvreader = csv.DictReader(file)
     for row in csvreader:
         collection_id = row["Collection_id"]
@@ -51,7 +51,7 @@ def to_matrix(dic):
 
 def write_matrix(key):
     matrix = to_matrix(strain.get(key))
-    newfilename = 'sp' + key + '_matrix.csv'
+    newfilename = 'ap' + key + '_matrix.csv'
     file = open(newfilename, "w")
     writer = csv.writer(file)
     for row in matrix:
