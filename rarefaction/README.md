@@ -1,4 +1,4 @@
-# rarefaction-analysis
+# Rarefaction Analysis
 analyzes and plot graphs of rarefaction results
 
 ## Instructions
