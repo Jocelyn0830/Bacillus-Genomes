@@ -8,7 +8,7 @@ For a group of strains to be identified as clones:
 
 
 
-## Instructions to run the program
+## Instructions
 Before identifying clones, you need
 - error rate file - output of `ComputeER.py`
 - environmental data file
