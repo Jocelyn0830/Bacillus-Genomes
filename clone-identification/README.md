@@ -1,5 +1,14 @@
-# clone-identification
+# Clone Identification
+Identifies all possible clone strains in a core genome alignment file
 
+## Criteria for clone
+For a group of strains to be identified as clones:
+- They must have same collection sites
+- They have a pairwise nucleotide difference less than 10^(-5)
+
+
+
+## Instructions to run the program
 Before identifying clones, you need
 - error rate file - output of `ComputeER.py`
 - environmental data file
