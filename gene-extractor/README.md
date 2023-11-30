@@ -1,5 +1,9 @@
 # gene-extractor
-
+- creates sql databases to store information of genes for each species
+- extract all genes of the given species
+- extract all core genes in a given core genome alignment file
+  
+## Instructions
 To extract genes in core genome alignment
 - you need download all ffn files output by Prokka
 - download Core Gene Alignment file and Absence Presence csv file output by Roary
