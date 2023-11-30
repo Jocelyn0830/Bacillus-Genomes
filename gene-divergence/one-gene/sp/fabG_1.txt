@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecosim type="savefile" version="2.1.6">
+  <criterion value="1"/>
+  <phylogeny size="169" length="729">
+    <outgroup value="amy"/>
+    <tree value="(amy:0.40858,((((((((((((((CBP-1647:0.00000,CBP-1648:0.00000):0.00198,CBP-1705:0.00164):0.00046,((((CBP-1696:0.00001,CBP-1814:0.00005):0.00031,(CBP-1910:0.00049,CBP-3035:0.00016):0.00019):0.00095,(CBP-2285:0.00027,CBP-2286:0.00015):0.00146):0.00041,(CBP-1723:0.00153,(CBP-1838:0.00095,(CBP-1987:0.00001,CBP-2374:0.00001):0.00051):0.00089):0.00036):0.00024):0.00027,(((((CBP-1935:0.00001,CBP-2405:0.00088):0.00001,CBP-2458:0.00004):0.00001,(((CBP-3031:0.00000,CBP-3032:0.00024):0.00002,(CBP-2440:0.00001,CBP-2451:0.00000):0.00002):0.00000,(CBP-2533:0.00002,CBP-2279:0.00002):0.00000):0.00001):0.00001,((CBP-2507:0.00002,((((CBP-2343:0.00001,CBP-2237:0.00003):0.00000,((CBP-2349:0.00000,CBP-2365:0.00000):0.00000,CBP-2366:0.00000):0.00001):0.00001,(CBP-2269:0.00002,CBP-2526:0.00002):0.00000):0.00000,CBP-2489:0.00002):0.00000):0.00000,CBP-2324:0.00002):0.00002):0.00190,CBP-2404:0.00155):0.00046):0.00016,(CBP-1823:0.00148,(CBP-1804:0.00005,((CBP-1843:0.00000,CBP-1844:0.00001):0.00001,CBP-1980:0.00002):0.00000):0.00134):0.00051):0.00024,((((((CBP-1975:0.00000,CBP-1976:0.00000):0.00002,CBP-2376:0.00001):0.00002,(((CBP-2295:0.00001,CBP-2367:0.00002):0.00000,CBP-2244:0.00001):0.00000,(CBP-2196:0.00001,CBP-2250:0.00000):0.00001):0.00001):0.00000,((CBP-2348:0.00002,CBP-2412:0.00002):0.00001,CBP-2369:0.00003):0.00001):0.00146,(CBP-1991:0.00000,CBP-1992:0.00000):0.00162):0.00033,((CBP-2185:0.00003,CBP-2473:0.00087):0.00034,CBP-2262:0.00041):0.00137):0.00036):0.00023,(((CBP-2310:0.00004,CBP-2436:0.00017):0.00000,CBP-2401:0.00003):0.00016,CBP-2435:0.00022):0.00191):0.00020,(((CBP-1704:0.00002,CBP-2303:0.00002):0.00002,CBP-2425:0.00004):0.00206,((CBP-1862:0.00005,(CBP-2287:0.00001,((CBP-2490:0.00001,CBP-2282:0.00001):0.00000,((CBP-1944:0.00003,CBP-1947:0.00007):0.00001,CBP-2424:0.00002):0.00000):0.00000):0.00000):0.00147,(CBP-1990:0.00108,CBP-1933:0.00079):0.00121):0.00063):0.00033):0.00016,((((CBP-2280:0.00063,(((CBP-2409:0.00001,CBP-2427:0.00001):0.00000,CBP-2423:0.00001):0.00000,CBP-2531:0.00001):0.00057):0.00109,CBP-2410:0.00163):0.00049,(CBP-2495:0.00172,CBP-2488:0.00175):0.00046):0.00024,CBP-2406:0.00230):0.00026):0.00023,(CBP-1805:0.00157,(((CBP-2243:0.00001,CBP-2456:0.00046):0.00040,CBP-2499:0.00041):0.00120,(CBP-2503:0.00125,(CBP-2281:0.00001,(CBP-2528:0.00000,CBP-2535:0.00000):0.00003):0.00138):0.00052):0.00040):0.00043):0.00031,(((((((((CBP-1702:0.00025,(CBP-1718:0.00000,(CBP-3079:0.00000,CBP-3033:0.00005):0.00001):0.00001):0.00012,(CBP-2283:0.00000,CBP-2284:0.00005):0.00001):0.00004,((CBP-1928:0.00002,CBP-3034:0.00001):0.00000,CBP-2127:0.00004):0.00022):0.00054,(CBP-1817:0.00056,CBP-2131:0.00040):0.00022):0.00057,(((CBP-1948:0.00000,CBP-1949:0.00001):0.00003,(((((CBP-2163:0.00000,CBP-2170:0.00000):0.00000,CBP-2213:0.00000):0.00000,(CBP-2200:0.00001,(((CBP-2193:0.00002,(CBP-2165:0.00000,CBP-2203:0.00002):0.00003):0.00000,CBP-2164:0.00001):0.00001,CBP-2198:0.00002):0.00000):0.00000):0.00001,CBP-2527:0.00001):0.00002,(CBP-2278:0.00001,(CBP-2487:0.00000,CBP-2419:0.00000):0.00001):0.00001):0.00001):0.00015,(((((CBP-2113:0.00000,(((CBP-2130:0.00000,((CBP-2136:0.00001,(((CBP-2122:0.00000,CBP-2144:0.00007):0.00000,CBP-2134:0.00002):0.00000,CBP-2121:0.00000):0.00000):0.00000,CBP-2140:0.00001):0.00000):0.00000,(CBP-2155:0.00002,CBP-2139:0.00000):0.00000):0.00000,CBP-2141:0.00002):0.00000):0.00000,CBP-2150:0.00000):0.00000,(CBP-2138:0.00000,CBP-2145:0.00002):0.00000):0.00000,CBP-2129:0.00000):0.00001,CBP-2438:0.00001):0.00011):0.00096):0.00030,(CBP-2381:0.00000,(CBP-2464:0.00001,CBP-2463:0.00004):0.00000):0.00093):0.00048,((((((CBP-1848:0.00001,CBP-1978:0.00000):0.00000,(CBP-1885:0.00001,CBP-1887:0.00000):0.00001):0.00001,(((CBP-1923:0.00000,CBP-1927:0.00000):0.00001,(CBP-2551:0.00001,CBP-2550:0.00002):0.00001):0.00000,((CBP-2217:0.00002,((CBP-2219:0.00000,CBP-2215:0.00000):0.00000,CBP-2218:0.00000):0.00000):0.00001,(CBP-2403:0.00001,(CBP-2377:0.00001,CBP-2431:0.00001):0.00000):0.00000):0.00000):0.00000):0.00000,CBP-1961:0.00001):0.00031,(CBP-1965:0.00002,CBP-2494:0.00002):0.00005):0.00049,CBP-2541:0.00070):0.00134):0.00043,CBP-1920:0.00182):0.00034,(((CBP-2214:0.00063,CBP-2350:0.00003):0.00011,(CBP-2471:0.00023,CBP-2469:0.00028):0.00013):0.00100,(CBP-2433:0.00008,(CBP-2470:0.00003,CBP-2434:0.00054):0.00004):0.00135):0.00059):0.00052):0.00021,((CBP-2263:0.00047,(CBP-2318:0.00002,CBP-2336:0.00002):0.00022):0.00089,spi_type_strain:0.00193):0.00037):0.00063,CBP-1811:0.00222):0.01913,((CBP-2114:0.00000,CBP-2135:0.00002):0.00413,(CBP-2414:0.00244,CBP-2311:0.00788):0.00298):0.02975):0.40858):0.00000;"/>
+  </phylogeny>
+  <binning>
+    <bins size="42">
+      <bin crit="0.800000" value="1"/>
+      <bin crit="0.810000" value="1"/>
+      <bin crit="0.820000" value="1"/>
+      <bin crit="0.830000" value="1"/>
+      <bin crit="0.840000" value="1"/>
+      <bin crit="0.850000" value="1"/>
+      <bin crit="0.860000" value="1"/>
+      <bin crit="0.870000" value="1"/>
+      <bin crit="0.880000" value="1"/>
+      <bin crit="0.890000" value="1"/>
+      <bin crit="0.900000" value="1"/>
+      <bin crit="0.910000" value="1"/>
+      <bin crit="0.920000" value="1"/>
+      <bin crit="0.930000" value="1"/>
+      <bin crit="0.940000" value="2"/>
+      <bin crit="0.950000" value="2"/>
+      <bin crit="0.955000" value="2"/>
+      <bin crit="0.960000" value="2"/>
+      <bin crit="0.965000" value="2"/>
+      <bin crit="0.970000" value="2"/>
+      <bin crit="0.975000" value="2"/>
+      <bin crit="0.980000" value="2"/>
+      <bin crit="0.981000" value="2"/>
+      <bin crit="0.982000" value="2"/>
+      <bin crit="0.983000" value="2"/>
+      <bin crit="0.984000" value="2"/>
+      <bin crit="0.985000" value="3"/>
+      <bin crit="0.986000" value="3"/>
+      <bin crit="0.987000" value="3"/>
+      <bin crit="0.988000" value="3"/>
+      <bin crit="0.989000" value="3"/>
+      <bin crit="0.990000" value="4"/>
+      <bin crit="0.991000" value="4"/>
+      <bin crit="0.992000" value="4"/>
+      <bin crit="0.993000" value="8"/>
+      <bin crit="0.994000" value="12"/>
+      <bin crit="0.995000" value="16"/>
+      <bin crit="0.996000" value="25"/>
+      <bin crit="0.997000" value="35"/>
+      <bin crit="0.998000" value="39"/>
+      <bin crit="0.999000" value="48"/>
+      <bin crit="1.000000" value="168"/>
+    </bins>
+  </binning>
+  <estimate>
+    <result npop="2" omega="0.00803" sigma="0.58641"/>
+    <omega slope="-0.00803" intercept="1.25259"/>
+    <sigma slope="-0.58641" intercept="6.30553"/>
+  </estimate>
+  <hillclimb>
+    <result npop="5" omega="0.00007" sigma="0.62987" likelihood="0.12900"/>
+  </hillclimb>
+  <npopCI>
+    <lower value="2" likelihood="0.0080000"/>
+    <upper value="5" likelihood="0.12900"/>
+  </npopCI>
+  <omegaCI>
+    <lower value="0.00001" likelihood="0.12300"/>
+    <upper value="0.45927" likelihood="0.31400"/>
+  </omegaCI>
+  <sigmaCI>
+    <lower value="0.06999" likelihood="0.0060000"/>
+    <upper value="17.00649" likelihood="0.0070000"/>
+  </sigmaCI>
+  <demarcation>
+    <method value="monophyly"/>
+    <paintmethod value="bars"/>
+    <ecotypes size="9">
+      <ecotype number="1" size="58">
+        <member name="CBP-1647"/>
+        <member name="CBP-1648"/>
+        <member name="CBP-1705"/>
+        <member name="CBP-1696"/>
+        <member name="CBP-1814"/>
+        <member name="CBP-1910"/>
+        <member name="CBP-3035"/>
+        <member name="CBP-2285"/>
+        <member name="CBP-2286"/>
+        <member name="CBP-1723"/>
+        <member name="CBP-1838"/>
+        <member name="CBP-1987"/>
+        <member name="CBP-2374"/>
+        <member name="CBP-1935"/>
+        <member name="CBP-2405"/>
+        <member name="CBP-2458"/>
+        <member name="CBP-3031"/>
+        <member name="CBP-3032"/>
+        <member name="CBP-2440"/>
+        <member name="CBP-2451"/>
+        <member name="CBP-2533"/>
+        <member name="CBP-2279"/>
+        <member name="CBP-2507"/>
+        <member name="CBP-2343"/>
+        <member name="CBP-2237"/>
+        <member name="CBP-2349"/>
+        <member name="CBP-2365"/>
+        <member name="CBP-2366"/>
+        <member name="CBP-2269"/>
+        <member name="CBP-2526"/>
+        <member name="CBP-2489"/>
+        <member name="CBP-2324"/>
+        <member name="CBP-2404"/>
+        <member name="CBP-1823"/>
+        <member name="CBP-1804"/>
+        <member name="CBP-1843"/>
+        <member name="CBP-1844"/>
+        <member name="CBP-1980"/>
+        <member name="CBP-1975"/>
+        <member name="CBP-1976"/>
+        <member name="CBP-2376"/>
+        <member name="CBP-2295"/>
+        <member name="CBP-2367"/>
+        <member name="CBP-2244"/>
+        <member name="CBP-2196"/>
+        <member name="CBP-2250"/>
+        <member name="CBP-2348"/>
+        <member name="CBP-2412"/>
+        <member name="CBP-2369"/>
+        <member name="CBP-1991"/>
+        <member name="CBP-1992"/>
+        <member name="CBP-2185"/>
+        <member name="CBP-2473"/>
+        <member name="CBP-2262"/>
+        <member name="CBP-2310"/>
+        <member name="CBP-2436"/>
+        <member name="CBP-2401"/>
+        <member name="CBP-2435"/>
+      </ecotype>
+      <ecotype number="2" size="12">
+        <member name="CBP-1704"/>
+        <member name="CBP-2303"/>
+        <member name="CBP-2425"/>
+        <member name="CBP-1862"/>
+        <member name="CBP-2287"/>
+        <member name="CBP-2490"/>
+        <member name="CBP-2282"/>
+        <member name="CBP-1944"/>
+        <member name="CBP-1947"/>
+        <member name="CBP-2424"/>
+        <member name="CBP-1990"/>
+        <member name="CBP-1933"/>
+      </ecotype>
+      <ecotype number="3" size="9">
+        <member name="CBP-2280"/>
+        <member name="CBP-2409"/>
+        <member name="CBP-2427"/>
+        <member name="CBP-2423"/>
+        <member name="CBP-2531"/>
+        <member name="CBP-2410"/>
+        <member name="CBP-2495"/>
+        <member name="CBP-2488"/>
+        <member name="CBP-2406"/>
+      </ecotype>
+      <ecotype number="4" size="8">
+        <member name="CBP-1805"/>
+        <member name="CBP-2243"/>
+        <member name="CBP-2456"/>
+        <member name="CBP-2499"/>
+        <member name="CBP-2503"/>
+        <member name="CBP-2281"/>
+        <member name="CBP-2528"/>
+        <member name="CBP-2535"/>
+      </ecotype>
+      <ecotype number="5" size="65">
+        <member name="CBP-1702"/>
+        <member name="CBP-1718"/>
+        <member name="CBP-3079"/>
+        <member name="CBP-3033"/>
+        <member name="CBP-2283"/>
+        <member name="CBP-2284"/>
+        <member name="CBP-1928"/>
+        <member name="CBP-3034"/>
+        <member name="CBP-2127"/>
+        <member name="CBP-1817"/>
+        <member name="CBP-2131"/>
+        <member name="CBP-1948"/>
+        <member name="CBP-1949"/>
+        <member name="CBP-2163"/>
+        <member name="CBP-2170"/>
+        <member name="CBP-2213"/>
+        <member name="CBP-2200"/>
+        <member name="CBP-2193"/>
+        <member name="CBP-2165"/>
+        <member name="CBP-2203"/>
+        <member name="CBP-2164"/>
+        <member name="CBP-2198"/>
+        <member name="CBP-2527"/>
+        <member name="CBP-2278"/>
+        <member name="CBP-2487"/>
+        <member name="CBP-2419"/>
+        <member name="CBP-2113"/>
+        <member name="CBP-2130"/>
+        <member name="CBP-2136"/>
+        <member name="CBP-2122"/>
+        <member name="CBP-2144"/>
+        <member name="CBP-2134"/>
+        <member name="CBP-2121"/>
+        <member name="CBP-2140"/>
+        <member name="CBP-2155"/>
+        <member name="CBP-2139"/>
+        <member name="CBP-2141"/>
+        <member name="CBP-2150"/>
+        <member name="CBP-2138"/>
+        <member name="CBP-2145"/>
+        <member name="CBP-2129"/>
+        <member name="CBP-2438"/>
+        <member name="CBP-2381"/>
+        <member name="CBP-2464"/>
+        <member name="CBP-2463"/>
+        <member name="CBP-1848"/>
+        <member name="CBP-1978"/>
+        <member name="CBP-1885"/>
+        <member name="CBP-1887"/>
+        <member name="CBP-1923"/>
+        <member name="CBP-1927"/>
+        <member name="CBP-2551"/>
+        <member name="CBP-2550"/>
+        <member name="CBP-2217"/>
+        <member name="CBP-2219"/>
+        <member name="CBP-2215"/>
+        <member name="CBP-2218"/>
+        <member name="CBP-2403"/>
+        <member name="CBP-2377"/>
+        <member name="CBP-2431"/>
+        <member name="CBP-1961"/>
+        <member name="CBP-1965"/>
+        <member name="CBP-2494"/>
+        <member name="CBP-2541"/>
+        <member name="CBP-1920"/>
+      </ecotype>
+      <ecotype number="6" size="7">
+        <member name="CBP-2214"/>
+        <member name="CBP-2350"/>
+        <member name="CBP-2471"/>
+        <member name="CBP-2469"/>
+        <member name="CBP-2433"/>
+        <member name="CBP-2470"/>
+        <member name="CBP-2434"/>
+      </ecotype>
+      <ecotype number="7" size="4">
+        <member name="CBP-2263"/>
+        <member name="CBP-2318"/>
+        <member name="CBP-2336"/>
+        <member name="spi_type_strain"/>
+      </ecotype>
+      <ecotype number="8" size="1">
+        <member name="CBP-1811"/>
+      </ecotype>
+      <ecotype number="9" size="4">
+        <member name="CBP-2114"/>
+        <member name="CBP-2135"/>
+        <member name="CBP-2414"/>
+        <member name="CBP-2311"/>
+      </ecotype>
+    </ecotypes>
+  </demarcation>
+</ecosim>

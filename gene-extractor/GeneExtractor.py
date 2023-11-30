@@ -46,7 +46,7 @@ def createData(filename, para):
     gene_dict = FastaToDict.fastaToDict(filename)
     data = []
     if para == 'y':
-        core_gene_set = findCoreGenes("sp_Absence_Presence.csv")
+        core_gene_set = findCoreGenes("ap_Absence_Presence.csv")
 
     for header, content in gene_dict.items():
         sequence_id = parseFilename(filename)
@@ -56,7 +56,7 @@ def createData(filename, para):
         if para == 'y':
             if gene_id in core_gene_set:
                 gene_name = core_gene_set[gene_id]
-                data.append((sequence_id, gene_id, gene_name, annotation, content))
+                data.append((sequence_id, gene_id, gene_name, annotation, content, len(content)))
         else:
             data.append((sequence_id, gene_id, annotation, content))
 
@@ -80,7 +80,7 @@ if __name__ == "__main__":
             cur = con.cursor()
             if para == 'y':
                 cur.executemany(
-                    "INSERT or IGNORE INTO core_genes VALUES(?, ?, ?, ?, ?)", data)
+                    "INSERT or IGNORE INTO core_genes VALUES(?, ?, ?, ?, ?, ?)", data)
             else:
                 cur.executemany(
                     "INSERT or IGNORE INTO all_genes VALUES(?, ?, ?, ?)", data)
