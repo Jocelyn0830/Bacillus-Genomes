@@ -1,4 +1,4 @@
-# Gene divergence
+# Gene Divergence
 - Computes average pairwise gene divergence/gene divergence percentage of all strains for a single gene
 - Summarize single gene rarefaction results
 - Plot a graph of the relationship between gene average divergence/gene divergence percentage and ecotype size for each species
