@@ -1,4 +1,4 @@
-# gene-extractor
+# Gene Extractor
 - creates sql databases to store information of genes for each species
 - extract all genes of the given species
 - extract all core genes in a given core genome alignment file
