@@ -1,0 +1,491 @@
+StrainName,CloneID,ChrisName,LabName,CollectionSite,Species,Soil_Type,Elevation,Elevation_class,Elevation group in meters,Lat_Degrees,Lat_Min,Lon_Degrees,Lon_Min,Date,Lat,Lon,calc_elevation,final_elevation,Ecotype
+CBP-1642,ap_collection1_1,CK301B-5,CK3O1B-5,CK3O1,atrophaeus,Opuntia,5767,Low,below 1800 m,36,15.1,117,6.591,26-May-10,36.25166667,-117.10985,5808.1,5767,
+CBP-2071,ap_collection1_1,CK3O1B-51B,CK3O1B-51B,CK3O1,atrophaeus,Opuntia,5767,Low,below 1800 m,36,15.1,117,6.591,26-May-10,36.25166667,-117.10985,5808.1,5767,
+CBP-1684*,ap_collection13_1,TP8F3aB-7,TP8F3aB-7,TP8F3,atrophaeus,Free,9637,High,2800 - 3000 m,36,12.816,117,5.36,25-May-10,36.2136,-117.0893333,9652.4,9637,ap_Ecotype8
+CBP-1682*,ap_collection13_2,TP8F3aB-2,TP8F3aB-2,TP8F3,atrophaeus,Free,9637,High,2800 - 3000 m,36,12.816,117,5.36,25-May-10,36.2136,-117.0893333,9652.4,9637,ap_Ecotype7
+CBP-1752*,ap_collection14_1,TP8F4bB-2,TP8F4bB-2,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype2
+CBP-1687*,ap_collection14_2,TP8F4aA-14,TP8F4aA-14,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype7
+CBP-1688,ap_collection14_2,TP8F4aA14m,TP8F4aA14m,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1729,ap_collection14_2,TP8F4aB-1,TP8F4aB-1,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1730,ap_collection14_2,TP8F4aB-10,TP8F4aB-10,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1732,ap_collection14_2,TP8F4aB-13,TP8F4aB-13,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1733,ap_collection14_2,TP8F4aB-15,TP8F4aB-15,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1734,ap_collection14_2,TP8F4aB-18,TP8F4aB-18,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1737,ap_collection14_2,TP8F4aB-20,TP8F4aB-20,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1738,ap_collection14_2,TP8F4aB-22,TP8F4aB-22,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1739,ap_collection14_2,TP8F4aB-23,TP8F4aB-23,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1740,ap_collection14_2,TP8F4aB-25,TP8F4aB-25,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-2100,ap_collection14_2,TP8F4aB-14,TP8F4aB-14,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1731*,ap_collection14_3,TP8F4aB-12,TP8F4aB-12,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype7
+CBP-1742*,ap_collection14_4,TP8F4aB-26m,TP8F4aB-26m,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype7
+CBP-1691*,ap_collection14_5,TP8FaA-4,TP8FaA-4,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype8
+CBP-1692,ap_collection14_5,TP8FaA-4m,TP8FaA-4m,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1689*,ap_collection14_6,TP8F4aA-4,TP8F4aA-4,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype7
+CBP-1746*,ap_collection14_7,TP8F4bB-1,TP8F4bB-1,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype7
+CBP-1741*,ap_collection14_8,TP8F4aB-26,TP8F4aB-26,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype7
+CBP-1690*,ap_collection14_9,TP8F4aA-5,TP8F4aA-5,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,ap_Ecotype2
+CBP-1747,ap_collection14_9,TP8F4bB-10,TP8F4bB-10,TP8F4,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.813,117,5.369,25-May-10,36.21355,-117.0894833,9648.7,9635,
+CBP-1762*,ap_collection16_1,TP8F5bB-3,TP8F5bB-3,TP8F5,atrophaeus,Free,9633,High,2800 - 3000 m,36,12.817,117,5.355,25-May-10,36.21361667,-117.08925,9653.9,9633,ap_Ecotype7
+CBP-1760*,ap_collection16_2,TP8F5aB-4,TP8F5aB-4,TP8F5,atrophaeus,Free,9633,High,2800 - 3000 m,36,12.817,117,5.355,25-May-10,36.21361667,-117.08925,9653.9,9633,ap_Ecotype2
+CBP-1772*,ap_collection17_1,TP8O1B-6,TP8O1B-6,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,ap_Ecotype7
+CBP-1774*,ap_collection17_2,TP8O1B-8,TP8O1B-8,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,ap_Ecotype7
+CBP-1767*,ap_collection17_3,TP8O1B-12,TP8O1B-12,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,ap_Ecotype7
+CBP-1768,ap_collection17_3,TP8O1B-13,TP8O1B-13,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,
+CBP-1769,ap_collection17_3,TP8O1B-2,TP8O1B-2,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,
+CBP-1770,ap_collection17_3,TP8O1B-4,TP8O1B-4,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,
+CBP-1773,ap_collection17_3,TP8O1B-7,TP8O1B-7,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,
+CBP-1771*,ap_collection17_4,TP8O1B-5,TP8O1B-5,TP8O1,atrophaeus,Opuntia,9644,High,2800 - 3000 m,36,12.834,117,5.353,25-May-10,36.2139,-117.0892167,9661.3,9644,ap_Ecotype8
+CBP-1790*,ap_collection18_01,TP8OB-24,TP8O3B-24,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype8
+CBP-1791,ap_collection18_01,TP8OB-24m,TP8O3B-24m,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,
+CBP-1792,ap_collection18_01,TP8OB-25,TP8O3B-25,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,
+CBP-1795,ap_collection18_01,TP8OB-27,TP8O3B-27,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,
+CBP-1800*,ap_collection18_02,TP8OB-6,TP8O3B-6,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype8
+CBP-1777*,ap_collection18_03,TP8O3B-8,TP8O3B-8,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype2
+CBP-1776*,ap_collection18_04,TP8O3B-15,TP8O3B-15,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype2
+CBP-1801*,ap_collection18_05,TP8OB-7,TP8O3B-7,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype7
+CBP-1796*,ap_collection18_06,TP8OB-28,TP8O3B-28,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype7
+CBP-1786*,ap_collection18_07,TP8OB-21,TP8O3B-21,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype8
+CBP-1797*,ap_collection18_08,TP8OB-3,TP8O3B-3,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype8
+CBP-1803*,ap_collection18_09,TP8OB-9,TP8O3B-9,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype8
+CBP-1789*,ap_collection18_10,TP8OB-23,TP8O3B-23,TP8O3,atrophaeus,Opuntia,9651,High,2800 - 3000 m,36,12.827,117,5.346,25-May-10,36.21378333,-117.0891,9660.1,9651,ap_Ecotype8
+CBP-1645*,ap_collection2_1,CK303A-2m,CK3O3A-2m,CK3O3,atrophaeus,Opuntia,5880,Low,below 1800 m,36,15.055,117,6.419,26-May-10,36.25091667,-117.1069833,5892.3,5880,ap_Ecotype1
+CBP-2075*,ap_collection2_10,CK3O2A-13,CK3O2A-13,CK3O2,atrophaeus,Opuntia,5871,Low,below 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,ap_Ecotype7
+CBP-2462*,ap_collection2_11,T12B1,T12B1,T12B,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,*,ap_Ecotype8
+CBP-2465*,ap_collection2_12,T12C4,T12C4,T12C,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,,ap_Ecotype8
+CBP-3049*,ap_collection2_13,TP10S1B-K2,TP10S1B-K2,TP10S1FREE,atrophaeus,Free,9635,High,2800 - 3000 m,36,12.849,117,5.338,17-May,36.21415,-117.0889667,9677.4,9635,ap_Ecotype7
+CBP-3054*,ap_collection2_14,TP10O2N-24,TP10O2N-24,TP10O2,atrophaeus,Opuntia,9600,High,2800 - 3000 m,,,,,17-May,,,,9600,ap_Ecotype7
+CBP-3055*,ap_collection2_15,TP10O4B-3,TP10O4B-3,TP10O4FREE,atrophaeus,Free,9600,High,2800 - 3000 m,,,,,,,,,9600,ap_Ecotype7
+CBP-1646*,ap_collection2_2,CK303A-4,CK3O3A-4,CK3O3,atrophaeus,Opuntia,5880,Low,below 1800 m,36,15.055,117,6.419,26-May-10,36.25091667,-117.1069833,5892.3,5880,ap_Ecotype8
+CBP-1669*,ap_collection2_3,CK5F-2,CK5F-2,CK5F2,atrophaeus,Free,7367,Medium,1900 - 2700 m,36,14.239,117,4.342,26-May-10,36.23731667,-117.0723667,7412,7367,ap_Ecotype4
+CBP-1670*,ap_collection2_4,CK5F-3,CK5F-3,CK5F3,atrophaeus,Free,7369,Medium,1900 - 2700 m,36,14.242,117,4.338,26-May-10,36.23736667,-117.0723,7414.2,7369,ap_Ecotype1
+CBP-1671*,ap_collection2_5,CK5J1B-1,CK5J1B-1,CK5J1,atrophaeus,Juniper,7366,Medium,1900 - 2700 m,36,14.255,117,4.362,26-May-10,36.23758333,-117.0727,7394.7,7366,ap_Ecotype4
+CBP-1672*,ap_collection2_6,TP601B-3a,TP6O1B-3a,TP6O1,atrophaeus,Opuntia,8169,Medium,1900 - 2700 m,36,13.725,117,4.118,26-May-10,36.22875,-117.0686333,8212.7,8169,ap_Ecotype4
+CBP-1678*,ap_collection2_7,TP7bA-2,TP7bA-2,TP7bA,atrophaeus,Juniper,8800,Medium,1900 - 2700 m,36,13.106,117,4.271,25-May-10,36.21843333,-117.0711833,8828.1,8800,ap_Ecotype8
+CBP-1681*,ap_collection2_8,TP8F2aA-2,TP8F2aA-2,TP8F2,atrophaeus,Free,9637,High,2800 - 3000 m,36,12.819,117,5.351,25-May-10,36.21365,-117.0891833,9655.3,9637,ap_Ecotype8
+CBP-1724*,ap_collection2_9,WR203B-5,WR2O3B-5,WR2O3,atrophaeus,Opuntia,4070,Low,below 1800 m,36,25.465,117,11.43,27-May-10,36.42441667,-117.1905,4086.9,4070,ap_Ecotype5
+CBP-2099*,ap_collection20_1,CK5O3B-14,CK5O3B-14,CK5O3,atrophaeus,Opuntia,7381,Medium,1900 - 2700 m,36,14.243,117,4.338,26-May-10,36.23738333,-117.0723,7413.7,7381,ap_Ecotype4
+CBP-2098*,ap_collection20_2,CK5O3B-13,CK5O3B-13,CK5O3,atrophaeus,Opuntia,7381,Medium,1900 - 2700 m,36,14.243,117,4.338,26-May-10,36.23738333,-117.0723,7413.7,7381,ap_Ecotype4
+CBP-2101*,ap_collection21_1,TP8F6bB-19,TP8F6bB-19,TP8F6,atrophaeus,Free,9633,High,2800 - 3000 m,36,12.822,117,5.344,25-May-10,36.2137,-117.0890667,9658.1,9633,ap_Ecotype8
+CBP-2102,ap_collection21_1,TP8F6bB-9,TP8F6bB-9,TP8F6,atrophaeus,Free,9633,High,2800 - 3000 m,36,12.822,117,5.344,25-May-10,36.2137,-117.0890667,9658.1,9633,
+CBP-2103,ap_collection22_1,TP8F7aA-1,TP8F7aA-1,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2105,ap_collection22_1,TP8F7aA-3,TP8F7aA-3,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2106,ap_collection22_1,TP8F7aA-4,TP8F7aA-4,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2107,ap_collection22_1,TP8F7aA-5,TP8F7aA-5,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2109,ap_collection22_1,TP8F7aA-7,TP8F7aA-7,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2110,ap_collection22_1,TP8F7aA-8,TP8F7aA-8,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2111,ap_collection22_1,TP8F7aA-9,TP8F7aA-9,TP8F7,atrophaeus,Free,9627,High,2800 - 3000 m,36,12.818,117,5.342,25-May-10,36.21363333,-117.0890333,9656.9,9627,
+CBP-2329*,ap_collection23_1,N17A11,N17A11,N17A,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,*,ap_Ecotype8
+CBP-2330*,ap_collection23_2,N17A12,N17A12,N17A,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,,ap_Ecotype8
+CBP-2331*,ap_collection23_3,N17A2,N17A2,N17A,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,,ap_Ecotype8
+CBP-2384*,ap_collection24_1,N9C17,N9C17,N9C,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,*,ap_Ecotype8
+CBP-2387*,ap_collection24_2,N9C20,N9C20,N9C,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,*,ap_Ecotype8
+CBP-2554*,ap_collection27_1,T8C1,T8C1,T8C,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,,ap_Ecotype8
+CBP-2555,ap_collection27_1,T8C3,T8C3,T8C,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,,
+CBP-2556,ap_collection27_1,T8C4,T8C4,T8C,atrophaeus,Free,-260,Low,below 1800 m,,,,,,,,,,
+CBP-3063*,ap_collection29_1,TP10O4N-G7,TP10O4N-G7,TP10O4,atrophaeus,Opuntia,9600,High,2800 - 3000 m,,,,,17-May,,,,9600,ap_Ecotype8
+CBP-3051*,ap_collection29_2,TP10O4N-26,TP10O4N-26,TP10O4,atrophaeus,Opuntia,9600,High,2800 - 3000 m,,,,,17-May,,,,9600,ap_Ecotype8
+CBP-1649,ap_collection3_1,CK3J3A-1,CK3J3A-1,CK3J3,atrophaeus,Juniper,5790,Low,below 1800 m,36,15.105,117,6.595,26-May-10,36.25175,-117.1099167,5803.7,5790,ap_Ecotype6
+CBP-2068,ap_collection3_1,CK3J3B-7,CK3J3B-7,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,
+CBP-2062,ap_collection3_2,CK3J3B-1,CK3J3B-1,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype5
+CBP-2067*,ap_collection3_3,CK3J3B-6,CK3J3B-6,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype6
+CBP-2063*,ap_collection3_4,CK3J3B-2,CK3J3B-2,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype6
+CBP-2066*,ap_collection3_5,CK3J3B-5,CK3J3B-5,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype6
+CBP-2064*,ap_collection3_6,CK3J3B-3,CK3J3B-3,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype6
+CBP-2065*,ap_collection3_7,CK3J3B-4,CK3J3B-4,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype5
+CBP-2069*,ap_collection3_8,CK3J3B-8,CK3J3B-8,CK3J3,atrophaeus,Juniper,5901,Low,below 1800 m,36,15.077,117,6.404,26-May-10,36.25128333,-117.1067333,5898.8,5901,ap_Ecotype6
+CBP-3062*,ap_collection30_1,TP10O1N-10,TP10O1N-10,TP10O1,atrophaeus,Opuntia,9600,High,2800 - 3000 m,,,,,17-May,,,,9600,ap_Ecotype3
+CBP-3053*,ap_collection30_2,TP10O1N-6,TP10O1N-6,TP10O1,atrophaeus,Opuntia,9600,High,2800 - 3000 m,,,,,17-May,,,,9600,ap_Ecotype7
+CBP-3060*,ap_collection33_1,TP10S1F-J2,TP10S1F-J2,TP10S1,atrophaeus,Sagebrush,9635,High,2800 - 3000 m,36,12.849,117,5.338,17-May,36.21415,-117.0889667,9677.4,9635,ap_Ecotype7
+CBP-3061*,ap_collection33_2,TP10S1N-I7,TP10S1N-I7,TP10S1,atrophaeus,Sagebrush,9635,High,2800 - 3000 m,36,12.849,117,5.338,17-May,36.21415,-117.0889667,9677.4,9635,ap_Ecotype1
+CBP-3056*,ap_collection33_3,TP10S1N-I5,TP10S1N-I5,TP10S1,atrophaeus,Sagebrush,9635,High,2800 - 3000 m,36,12.849,117,5.338,17-May,36.21415,-117.0889667,9677.4,9635,ap_Ecotype8
+CBP-3058*,ap_collection34_1,TP10O2B-D4,TP10O2B-D4,TP10O2FREE,atrophaeus,Free,9600,High,2800 - 3000 m,,,,,,,,,9600,ap_Ecotype2
+CBP-3057*,ap_collection34_2,TP10O2B-D5,TP10O2B-D5,TP10O2FREE,atrophaeus,Free,9600,High,2800 - 3000 m,,,,,,,,,9600,ap_Ecotype7
+CBP-3059,ap_collection34_2,TP10O2B-D16,TP10O2B-D16,TP10O2FREE,atrophaeus,Free,9600,High,2800 - 3000 m,,,,,,,,,9600,
+CBP-3065*,ap_collection35_1,EC49O5B-F15,EC49O5B-F15,EC49O5FREE,atrophaeus,Opuntia,4900,Low,below 1800 m,,,,,,,,,4900,ap_Ecotype6
+CBP-3064*,ap_collection35_2,EC49O5B-F7,EC49O5B-F7,EC49O5FREE,atrophaeus,Free,4900,Low,below 1800 m,,,,,17-May,,,,4900,ap_Ecotype6
+CBP-1650*,ap_collection4_1,CK4F1-1,CK4F1-1,CK4F1,atrophaeus,Free,6593,Medium,1900 - 2700 m,36,15.044,117,5.008,26-May-10,36.25073333,-117.0834667,6608.4,6593,ap_Ecotype8
+CBP-1655,ap_collection4_1,CK4F1-4,CK4F1-4,CK4F1,atrophaeus,Free,6593,Medium,1900 - 2700 m,36,15.044,117,5.008,26-May-10,36.25073333,-117.0834667,6608.4,6593,
+CBP-1651*,ap_collection4_2,CK4F1-1m,CK4F1-1m,CK4F1,atrophaeus,Free,6593,Medium,1900 - 2700 m,36,15.044,117,5.008,26-May-10,36.25073333,-117.0834667,6608.4,6593,ap_Ecotype8
+CBP-1652*,ap_collection4_3,CK4F1-2,CK4F1-2,CK4F1,atrophaeus,Free,6593,Medium,1900 - 2700 m,36,15.044,117,5.008,26-May-10,36.25073333,-117.0834667,6608.4,6593,ap_Ecotype1
+CBP-1657,ap_collection5_1,CK4F3A-1,CK4F3A-1,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-1661*,ap_collection5_1,CK4F3A-4,CK4F3A-4,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,ap_Ecotype8
+CBP-1665,ap_collection5_1,CK4F3B-3,CK4F3B-3,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-1666,ap_collection5_1,CK4F3B-4,CK4F3B-4,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2087,ap_collection5_1,CK4F3A-53,CK4F3A-53,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2088,ap_collection5_1,CK4F3A-54,CK4F3A-54,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2089,ap_collection5_1,CK4F3A-55,CK4F3A-55,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2090,ap_collection5_1,CK4F3A-56,CK4F3A-56,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2092,ap_collection5_1,CK4F3A-58,CK4F3A-58,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2093,ap_collection5_1,CK4F3B-51,CK4F3B-51,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-1658*,ap_collection5_2,CK4F3A-1F,CK4F3A-1F,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,ap_Ecotype8
+CBP-1660*,ap_collection5_3,CK4F3A-3,CK4F3A-3,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,ap_Ecotype1
+CBP-1662,ap_collection5_3,CK4F3B-1,CK4F3B-1,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-1663,ap_collection5_3,CK4F3B-1m,CK4F3B-1m,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-1664,ap_collection5_3,CK4F3B-2,CK4F3B-2,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2086,ap_collection5_3,CK4F3A-52,CK4F3A-52,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2091,ap_collection5_3,CK4F3A-57,CK4F3A-57,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2094,ap_collection5_3,CK4F3B-52,CK4F3B-52,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-2095,ap_collection5_3,CK4F3B-53,CK4F3B-53,CK4F3,atrophaeus,Free,6591,Medium,1900 - 2700 m,36,15.052,117,5.003,26-May-10,36.25086667,-117.0833833,6607.4,6591,
+CBP-1668*,ap_collection6_1,CK502A-1,CK5O2A-1,CK5O2,atrophaeus,Opuntia,7351,Medium,1900 - 2700 m,36,14.246,117,4.34,26-May-10,36.23743333,-117.0723333,7410.2,7351,ap_Ecotype8
+CBP-2096,ap_collection6_1,CK5O2B-1,CK5O2B-1,CK5O2,atrophaeus,Opuntia,7351,Medium,1900 - 2700 m,36,14.246,117,4.34,26-May-10,36.23743333,-117.0723333,7410.2,7351,
+CBP-2097,ap_collection6_1,CK5O2B-2,CK5O2B-2,CK5O2,atrophaeus,Opuntia,7351,Medium,1900 - 2700 m,36,14.246,117,4.34,26-May-10,36.23743333,-117.0723333,7410.2,7351,
+CBP-2072*,ia_collection1_1,CK3O1B-53B,CK3O1B-53B,CK3O1,inaquosorum,Opuntia,5767,High,1230 - 1800 m,36,15.1,117,6.591,26-May-10,36.25166667,-117.10985,5808.1,5767,ia_Ecotype4
+CBP-1641*,ia_collection1_2,CK301B-4,CK3O1B-4,CK3O1,inaquosorum,Opuntia,5767,High,1230 - 1800 m,36,15.1,117,6.591,26-May-10,36.25166667,-117.10985,5808.1,5767,ia_Ecotype14
+CBP-1721*,ia_collection15_1,WR203A-1,WR2O3A-1,WR2O3,inaquosorum,Opuntia,4070,High,1230 - 1800 m,36,25.465,117,11.43,27-May-10,36.42441667,-117.1905,4086.9,4070,ia_Ecotype8
+CBP-1722,ia_collection15_1,WR203A-1m,WR2O3A-1m,WR2O3,inaquosorum,Opuntia,4070,High,1230 - 1800 m,36,25.465,117,11.43,27-May-10,36.42441667,-117.1905,4086.9,4070,
+CBP-2073*,ia_collection19_1,CK3O2A-10,CK3O2A-10,CK3O2,inaquosorum,Opuntia,5871,High,1230 - 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,ia_Ecotype8
+CBP-2074,ia_collection19_1,CK3O2A-11,CK3O2A-11,CK3O2,inaquosorum,Opuntia,5871,High,1230 - 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,
+CBP-2078,ia_collection19_1,CK3O2A-7,CK3O2A-7,CK3O2,inaquosorum,Opuntia,5871,High,1230 - 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,
+CBP-2079,ia_collection19_1,CK3O2B-51A,CK3O2B-51A,CK3O2,inaquosorum,Opuntia,5871,High,1230 - 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,
+CBP-2082,ia_collection19_1,CK3O2B-55B,CK3O2B-55B,CK3O2,inaquosorum,Opuntia,5871,High,1230 - 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,
+CBP-2083,ia_collection19_1,CK3O2B-56B,CK3O2B-56B,CK3O2,inaquosorum,Opuntia,5871,High,1230 - 1800 m,36,15.053,117,6.416,26-May-10,36.25088333,-117.1069333,5894.9,5871,
+CBP-1851*,ia_collection2_1,S4C-3,S4C-3,S4C,inaquosorum,Free,-255.1,Low,Below 0 m,36,17.095,116,53.455,,36.28491667,-116.8909167,-255.1,-255.1,ia_Ecotype11
+CBP-2481*,ia_collection2_10,T15C15,T15C15,T15C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2493*,ia_collection2_11,T18B2,T18B2,T18B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2500*,ia_collection2_12,T18C9,T18C9,T18C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype10
+CBP-3068*,ia_collection2_13,EC30O2B-D1-2,EC30O2B-D1-2,EC30O2 ,inaquosorum,,,,,,,,,,,,,,ia_Ecotype1
+CBP-3076*,ia_collection2_14,EC30O3B-G10,EC30O3B-G10,EC30O3FREE,inaquosorum,Free,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,ia_Ecotype8
+CBP-3078*,ia_collection2_15,EC30O5N-E3*,EC30O5N-E3*,EC30O5,inaquosorum,Opuntia,3965,Medium,800 - 1220 m,36,25.573,117,11.602,1-Jun-17,36.42621667,-117.1933667,4040.2,3965,ia_Ecotype8
+CBP-3080*,ia_collection2_16,EC30O2B-D2*,EC30O2B-D2*,EC30O2FREE,inaquosorum,Free,2987,Medium,800 - 1220 m,36,27.744,117,12.541,1-Jun-17,36.4624,-117.2090167,3068.8,2987,ia_Ecotype9
+CBP-3092*,ia_collection2_17,EC49O1B-A1,EC49O1B-A1,EC49O1FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.131,117,10.091,1-Jun-17,36.30218333,-117.1681833,4932,4898,ia_Ecotype10
+CBP-2186*,ia_collection2_2,105-4,105-4,105,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype7
+CBP-2194*,ia_collection2_3,16b-1,16b-1,16,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype14
+CBP-2272*,ia_collection2_4,M16B4,M16B4,M16B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype10
+CBP-2290*,ia_collection2_5,M20B4,M20B4,M20B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2294*,ia_collection2_6,M8B10,M8B10,M8B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype2
+CBP-2429*,ia_collection2_7,S18C12,S18C12,S18C,inaquosorum,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,ia_Ecotype13
+CBP-2449*,ia_collection2_8,S3C6,S3C6,S3C,inaquosorum,Free,-255.9,Low,Below 0 m,36,17.101,116,53.443,,36.28501667,-116.8907167,-255.9,-255.9,ia_Ecotype1
+CBP-2457*,ia_collection2_9,T11B1,T11B1,T11B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2380*,ia_collection24_1,N9C1,N9C1,N9C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype8
+CBP-2385*,ia_collection24_2,N9C19,N9C19,N9C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2386*,ia_collection24_3,N9C2,N9C2,N9C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-3098*,ia_collection35_1,EC49O5B-F1,EC49O5B-F1,EC49O5FREE,inaquosorum,Free,4900,High,1230 - 1800 m,,,,,1-Jun-17,,,,4900,ia_Ecotype14
+CBP-3099,ia_collection35_1,EC49O5B-F3*,EC49O5B-F3*,EC49O5FREE,inaquosorum,Free,4900,High,1230 - 1800 m,,,,,1-Jun-17,,,,4900,
+CBP-3091*,ia_collection35_2,EC49O5B-F10*,EC49O5B-F10*,EC49O5FREE,inaquosorum,Free,4900,High,1230 - 1800 m,,,,,1-Jun-17,,,,4900,ia_Ecotype14
+CBP-1713*,ia_collection36_1,WR202B-2,WR2O2B-2,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,ia_Ecotype13
+CBP-1714,ia_collection36_1,WR202B-2m,WR2O2B-2m,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1715,ia_collection36_1,WR202B-3,WR2O2B-3,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-2160,ia_collection36_1,WR2O2B-52,WR2O2B-52,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-2161,ia_collection36_1,WR2O2B-53,WR2O2B-53,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1708*,ia_collection36_2,WR202A-1,WR2O2A-1,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,ia_Ecotype3
+CBP-1709,ia_collection36_2,WR202A-1m,WR2O2A-1m,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1710,ia_collection36_2,WR202A-2,WR2O2A-2,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1711,ia_collection36_2,WR202A-3,WR2O2A-3,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1716,ia_collection36_2,WR202B-4,WR2O2B-4,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1719,ia_collection36_2,WR202B-6,WR2O2B-6,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1720,ia_collection36_2,WR202B-6m,WR2O2B-6m,WR2O2,inaquosorum,Opuntia,4064,High,1230 - 1800 m,36,25.466,117,11.423,27-May-10,36.42443333,-117.1903833,4093.6,4064,
+CBP-1725*,ia_collection37_1,WR2FB-1,WR2F2B-1,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype10
+CBP-1727,ia_collection37_1,WR2FB-1F,WR2F2B-1F,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,
+CBP-1806*,ia_collection37_2,WR2F2B-11,WR2F2B-11,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype10
+CBP-1815*,ia_collection37_3,WR2F2B-8,WR2F2B-8,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype9
+CBP-1808*,ia_collection37_4,WR2F2B-13,WR2F2B-13,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype10
+CBP-1809,ia_collection37_4,WR2F2B-14,WR2F2B-14,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,
+CBP-1810,ia_collection37_4,WR2F2B-14m,WR2F2B-14m,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,
+CBP-1807*,ia_collection37_5,WR2F2B-12,WR2F2B-12,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype12
+CBP-1728*,ia_collection37_6,WR2FB-3,WR2F2B-3,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype8
+CBP-1726*,ia_collection37_7,WR2FB-11a,WR2F2B-11a,WR2F2,inaquosorum,Free,4070,High,1230 - 1800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,ia_Ecotype12
+CBP-2394*,ia_collection38_1,S10C3,S10C3,S10C,inaquosorum,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,ia_Ecotype9
+CBP-1899*,ia_collection38_2,S10C11F,S10C11F,S10C,inaquosorum,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,ia_Ecotype10
+CBP-1900,ia_collection38_2,S10C11M,S10C11M,S10C,inaquosorum,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,
+CBP-1824*,ia_collection38_3,S10C-2,S10C-2,S10C,inaquosorum,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,ia_Ecotype9
+CBP-2393*,ia_collection38_4,S10C2,S10C2,S10C,inaquosorum,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,ia_Ecotype9
+CBP-1825*,ia_collection38_5,S10C-3,S10C-3,S10C,inaquosorum,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,ia_Ecotype9
+CBP-1880*,ia_collection40_1,S8C-1I,S8C-1I,S8C,inaquosorum,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,ia_Ecotype5
+CBP-1881*,ia_collection40_2,S8C-1II,S8C-1II,S8C,inaquosorum,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,ia_Ecotype10
+CBP-1883,ia_collection40_2,S8C-2II,S8C-2II,S8C,inaquosorum,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,
+CBP-1891,ia_collection41_1,S9B-1,S9B-1,S9B,inaquosorum,Free,-249.2,Low,Below 0 m,36,17.092,116,53.53,,36.28486667,-116.8921667,-249.2,-249.2,
+CBP-1894,ia_collection41_1,S9B-4,S9B-4,S9B,inaquosorum,Free,-249.2,Low,Below 0 m,36,17.092,116,53.53,,36.28486667,-116.8921667,-249.2,-249.2,
+CBP-1915*,ia_collection42_1,S11B4,S11B4,S11B,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype12
+CBP-1914*,ia_collection42_2,S11B3,S11B3,S11B,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype13
+CBP-2397*,ia_collection43_1,S11C12,S11C12,S11C,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype11
+CBP-1921*,ia_collection43_2,S11C5F,S11C5F,S11C,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype8
+CBP-2400*,ia_collection43_3,S11C6,S11C6,S11C,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype12
+CBP-2398*,ia_collection43_4,S11C13,S11C13,S11C,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype13
+CBP-2396*,ia_collection43_5,S11C11,S11C11,S11C,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype3
+CBP-1918*,ia_collection43_6,S11C2,S11C2,S11C,inaquosorum,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,ia_Ecotype12
+CBP-2252*,ia_collection46_1,18A1,18A1,18,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2197*,ia_collection46_2,18a-1,18a-1,18,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2225*,ia_collection47_1,97-1,97-1,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2226,ia_collection47_1,97-2,97-2,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2227,ia_collection47_1,97-3,97-3,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2228,ia_collection47_1,97-4,97-4,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2229,ia_collection47_1,97-5,97-5,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2230,ia_collection47_1,97-6,97-6,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2231,ia_collection47_1,97-7,97-7,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2233,ia_collection47_1,97-9,97-9,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2254,ia_collection47_1,97-1,97-1,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2255,ia_collection47_1,97-2,97-2,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2256,ia_collection47_1,97-3,97-3,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2257,ia_collection47_1,97-4,97-4,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2259,ia_collection47_1,97-6,97-6,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2260,ia_collection47_1,97-7,97-7,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2258*,ia_collection47_2,97-5,97-5,97,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2268*,ia_collection48_1,M15B5,M15B5,M15B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype6
+CBP-2265*,ia_collection48_2,M15B2,M15B2,M15B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2264*,ia_collection48_3,M15B1,M15B1,M15B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype7
+CBP-2267*,ia_collection48_4,M15B4,M15B4,M15B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype5
+CBP-2301*,ia_collection52_1,N11C11,N11C11,N11C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2300*,ia_collection52_2,N11C10,N11C10,N11C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2302*,ia_collection52_3,N11C7,N11C7,N11C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2323*,ia_collection53_1,N15A8,N15A8,N15A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2320*,ia_collection53_2,N15A11,N15A11,N15A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2319*,ia_collection53_3,N15A1,N15A1,N15A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype7
+CBP-2332*,ia_collection54_1,N18A13,N18A13,N18A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2333*,ia_collection54_2,N18A14,N18A14,N18A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype9
+CBP-2355*,ia_collection55_1,N9A10,N9A10,N9A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype8
+CBP-2358*,ia_collection55_2,N9A14,N9A14,N9A,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2370*,ia_collection56_1,N9B20,N9B20,N9B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2372*,ia_collection56_2,N9B22,N9B22,N9B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype7
+CBP-2371*,ia_collection56_3,N9B21,N9B21,N9B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype12
+CBP-2379*,ia_collection56_4,N9B29,N9B29,N9B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype1
+CBP-2443*,ia_collection58_1,S20C8,S20C8,S20C,inaquosorum,Free,-220.9,Low,Below 0 m,36,17.103,116,53.708,,36.28505,-116.8951333,-220.9,-220.9,ia_Ecotype13
+CBP-2442*,ia_collection58_2,S20C7,S20C7,S20C,inaquosorum,Free,-220.9,Low,Below 0 m,36,17.103,116,53.708,,36.28505,-116.8951333,-220.9,-220.9,ia_Ecotype13
+CBP-2453*,ia_collection60_1,S8C1X1,S8C1X1,S8C1,inaquosorum,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,ia_Ecotype5
+CBP-2454*,ia_collection60_2,S8C1X2,S8C1X2,S8C1,inaquosorum,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,ia_Ecotype10
+CBP-2466*,ia_collection62_1,T13B1,T13B1,T13B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2467*,ia_collection62_2,T13B2,T13B2,T13B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2468*,ia_collection62_3,T13B3,T13B3,T13B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype11
+CBP-2482*,ia_collection64_1,T16B1,T16B1,T16B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2483*,ia_collection64_2,T16B2,T16B2,T16B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype9
+CBP-2516*,ia_collection67_1,T20C8,T20C8,T20C,inaquosorum,,-260,Low,Below 0 m,,,,,,,,,,ia_Ecotype13
+CBP-2510*,ia_collection67_2,T20C13,T20C13,T20C,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype13
+CBP-2532*,ia_collection68_1,T5B6,T5B6,T5B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype1
+CBP-2534*,ia_collection68_2,T5B8,T5B8,T5B,inaquosorum,Free,-260,Low,Below 0 m,,,,,,,,,*,ia_Ecotype7
+CBP-3041*,ia_collection69_1,EC30O3N-H9*,EC30O3N-H9*,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,ia_Ecotype14
+CBP-3066,ia_collection69_1,EC30O3N-H9,EC30O3N-H9,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,
+CBP-3084,ia_collection69_1,EC30O3N-H14,EC30O3N-H14,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,
+CBP-3085,ia_collection69_1,EC30O3N-H3-1,EC30O3N-H3-1,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,
+CBP-3086,ia_collection69_1,EC30O3N-H1,EC30O3N-H1,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,
+CBP-3087*,ia_collection69_2,EC30O3N-H3-2,EC30O3N-H3-2,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,ia_Ecotype14
+CBP-3030*,ia_collection69_3,EC30O3N-H13,EC30O3N-H13,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,ia_Ecotype14
+CBP-3083*,ia_collection69_4,EC30O3N-H12,EC30O3N-H12,EC30O3,inaquosorum,Opuntia,3058,Medium,800 - 1220 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,ia_Ecotype14
+CBP-3073*,ia_collection70_1,EC30O4N-B1*,EC30O4N-B1*,EC30O4,inaquosorum,Opuntia,3038,Medium,800 - 1220 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,ia_Ecotype12
+CBP-3039*,ia_collection70_2,EC30O4N-B4-2,EC30O4N-B4-2,EC30O4,inaquosorum,Opuntia,3038,Medium,800 - 1220 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,ia_Ecotype2
+CBP-3074*,ia_collection70_3,EC30O4N-B8,EC30O4N-B8,EC30O4,inaquosorum,Opuntia,3038,Medium,800 - 1220 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,ia_Ecotype10
+CBP-3070*,ia_collection72_1,EC30O5B-F9,EC30O5B-F9,EC30O5FREE,inaquosorum,Free,3965,Medium,800 - 1220 m,36,25.573,117,11.602,1-Jun-17,36.42621667,-117.1933667,4040.2,3965,ia_Ecotype14
+CBP-3081*,ia_collection72_2,EC30O5B-F2-1,EC30O5B-F2-1,EC30O5FREE,inaquosorum,Free,3965,Medium,800 - 1220 m,36,25.573,117,11.602,1-Jun-17,36.42621667,-117.1933667,4040.2,3965,ia_Ecotype14
+CBP-3075*,ia_collection72_3,EC30O5B-F5,EC30O5B-F5,EC30O5FREE,inaquosorum,Free,3965,Medium,800 - 1220 m,36,25.573,117,11.602,1-Jun-17,36.42621667,-117.1933667,4040.2,3965,ia_Ecotype7
+CBP-3071*,ia_collection73_1,EC30O4B-A5,EC30O4B-A5,EC30O4FREE,inaquosorum,Free,3038,Medium,800 - 1220 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,ia_Ecotype14
+CBP-3072*,ia_collection73_2,EC30O4B-A7,EC30O4B-A7,EC30O4FREE,inaquosorum,Free,3038,Medium,800 - 1220 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,ia_Ecotype9
+CBP-3077*,ia_collection75_1,EC30O1B-J3,EC30O1B-J3,EC30O1FREE,inaquosorum,Free,2971,Medium,800 - 1220 m,36,27.744,117,12.537,1-Jun-17,36.4624,-117.20895,3066.1,2971,ia_Ecotype8
+CBP-3088*,ia_collection75_2,EC30O1B-J4,EC30O1B-J4,EC30O1FREE,inaquosorum,Free,2971,Medium,800 - 1220 m,36,27.744,117,12.537,1-Jun-17,36.4624,-117.20895,3066.1,2971,ia_Ecotype14
+CBP-3090*,ia_collection78_1,EC49O2B-D3,EC49O2B-D3,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,ia_Ecotype14
+CBP-3093*,ia_collection78_2,EC49O2B-D16*,EC49O2B-D16*,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,ia_Ecotype14
+CBP-3094,ia_collection78_2,EC49O2B-D19,EC49O2B-D19,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,
+CBP-3095,ia_collection78_2,EC49O2B-D21,EC49O2B-D21,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,
+CBP-3096,ia_collection78_2,EC49O2B-D24,EC49O2B-D24,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,
+CBP-3097,ia_collection78_2,EC49O2B-D33,EC49O2B-D33,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,
+CBP-3089*,ia_collection78_3,EC49O2B-D2,EC49O2B-D2,EC49O2FREE,inaquosorum,Free,4898,High,1230 - 1800 m,36,18.13,117,10.093,1-Jun-17,36.30216667,-117.1682167,4931.9,4898,ia_Ecotype14
+CBP-1647*,sp_collection1_1,CK3J2A-1,CK3J2A-1,CK3J2,spizizenii,Juniper,5790,High,Above 800 m,36,15.105,117,6.595,26-May-10,36.25175,-117.1099167,5803.7,5790,sp_Ecotype5
+CBP-1944*,sp_collection1_10,S14B2,S14B2,S14B,spizizenii,Free,-236.9,Low,Below 0 m,36,17.092,116,53.599,,36.28486667,-116.8933167,-236.9,-236.9,sp_Ecotype5
+CBP-1961*,sp_collection1_11,S15C6,S15C6,S15C,spizizenii,Free,-236.2,Low,Below 0 m,36,17.09,116,53.611,,36.28483333,-116.8935167,-236.2,-236.2,sp_Ecotype4
+CBP-1989,sp_collection1_12,N10b3,N10b3,N10B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,
+CBP-2185*,sp_collection1_13,105-3,105-3,105,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2262*,sp_collection1_14,M13B10,M13B10,M13B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2263*,sp_collection1_15,M13C8,M13C8,M13C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype1
+CBP-2269*,sp_collection1_16,M16B1,M16B1,M16B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2287*,sp_collection1_17,M20B1,M20B1,M20B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2303*,sp_collection1_18,N11C8,N11C8,N11C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2310*,sp_collection1_19,N12A6,N12A6,N12A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-1648*,sp_collection1_2,CK3J2A-1w,CK3J2A-1w,CK3J2,spizizenii,Juniper,5790,High,Above 800 m,36,15.105,117,6.595,26-May-10,36.25175,-117.1099167,5803.7,5790,sp_Ecotype5
+CBP-2311*,sp_collection1_20,N13A1,N13A1,N13A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype3
+CBP-2318*,sp_collection1_21,N14A1,N14A1,N14A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype1
+CBP-2324*,sp_collection1_22,N15A9,N15A9,N15A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2343*,sp_collection1_23,N19A13,N19A13,N19A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2348*,sp_collection1_24,N1C7,N1C7,N1C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2440*,sp_collection1_25,S20B3,S20B3,S20B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype5
+CBP-2456*,sp_collection1_26,T10C12,T10C12,T10C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2458*,sp_collection1_27,T11B2,T11B2,T11B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2499*,sp_collection1_28,T18C8,T18C8,T18C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2503*,sp_collection1_29,T19C11,T19C11,T19C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-1718*,sp_collection1_3,WR202B-5m,WR202B-5m,WR2O2,spizizenii,Opuntia,,,,,,,,,,,,,sp_Ecotype4
+CBP-2507*,sp_collection1_30,T20B2,T20B2,T20B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2541*,sp_collection1_31,T5C9,T5C9,T5C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-3034*,sp_collection1_32,EC30O1B-J2,EC30O1B-J2,EC30O1FREE,spizizenii,Free,2971,High,Above 800 m,36,27.744,117,12.537,1-Jun-17,36.4624,-117.20895,3066.1,2971,sp_Ecotype4
+CBP-3035*,sp_collection1_33,EC30O2N-C1-4,EC30O2N-C1-4,EC30O2N-C1,spizizenii,Opuntia,2987,High,Above 800 m,36,27.744,117,12.541,1-Jun-17,36.4624,-117.2090167,3068.8,2987,sp_Ecotype5
+CBP-1723*,sp_collection1_4,WR203A-3,WR2O3A-3,WR2O3,spizizenii,Opuntia,4070,High,Above 800 m,36,25.465,117,11.43,27-May-10,36.42441667,-117.1905,4086.9,4070,sp_Ecotype5
+CBP-1804*,sp_collection1_5,WR1O3B-1,WR1O3B-1,WR1O3,spizizenii,Opuntia,2984,High,Above 800 m,36,27.914,117,12.486,27-May-10,36.46523333,-117.2081,3026,2984,sp_Ecotype5
+CBP-1838*,sp_collection1_6,S3C-3,S3C-3,S3C,spizizenii,Free,-255.9,Low,Below 0 m,36,17.101,116,53.443,,36.28501667,-116.8907167,-255.9,-255.9,sp_Ecotype5
+CBP-1848*,sp_collection1_7,S14C1II,S14C1II,S14,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-1862*,sp_collection1_8,S6B-2,S6B-2,S6B,spizizenii,Free,-252.3,Low,Below 0 m,36,17.095,116,53.502,,36.28491667,-116.8917,-252.3,-252.3,sp_Ecotype5
+CBP-1927*,sp_collection1_9,S12B5,S12B5,S12B,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype4
+CBP-2213*,sp_collection100_1,93-1,93-1,93,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-2214*,sp_collection100_2,93-2,93-2,93,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2219*,sp_collection101_1,96-2,96-2,96,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2221,sp_collection101_1,96-4,96-4,96,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2223,sp_collection101_1,96-8,96-8,96,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2218*,sp_collection101_2,96-12,96-12,96,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2217*,sp_collection101_3,96-11,96-11,96,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2215*,sp_collection101_4,96-1,96-1,96,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2237*,sp_collection102_1,98-2,98-2,98,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2244*,sp_collection102_2,98-9,98-9,98,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2243*,sp_collection102_3,98-7b,98-7b,98,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2279*,sp_collection105_1,M18B3,M18B3,M18B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2278*,sp_collection105_2,M18B2,M18B2,M18B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2280*,sp_collection105_3,M18B4,M18B4,M18B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2281*,sp_collection105_4,M18B5,M18B5,M18B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2285*,sp_collection106_1,M19B4,M19B4,M19B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2282*,sp_collection106_2,M19B1,M19B1,M19B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2284*,sp_collection106_3,M19B3,M19B3,M19B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2286*,sp_collection106_4,M19B5,M19B5,M19B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2283*,sp_collection106_5,M19B2,M19B2,M19B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2350*,sp_collection112_1,N20B1 II,N20B1 II,N20B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2349*,sp_collection112_2,N20B1 I,N20B1 I,N20B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype5
+CBP-2473*,sp_collection115_1,T14B5,T14B5,T14B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2469*,sp_collection115_2,T14B1,T14B1,T14B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2471*,sp_collection115_3,T14B3,T14B3,T14B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2470*,sp_collection115_4,T14B2,T14B2,T14B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2489*,sp_collection116_1,T17B4,T17B4,T17B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2490*,sp_collection116_2,T17B5,T17B5,T17B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2488*,sp_collection116_3,T17B3,T17B3,T17B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2487*,sp_collection116_4,T17B2,T17B2,T17B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-2551*,sp_collection120_1,T8B2,T8B2,T8B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2552,sp_collection120_1,T8B3,T8B3,T8B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2553,sp_collection120_1,T8B4,T8B4,T8B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2550*,sp_collection120_2,T8B1,T8B1,T8B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2381*,sp_collection24_1,N9C13,N9C13,N9C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2388,sp_collection24_1,N9C7,N9C7,N9C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2389,sp_collection24_1,N9C8,N9C8,N9C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2463*,sp_collection26_1,T12C1,T12C1,T12C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2464*,sp_collection26_2,T12C18,T12C18,T12C,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-1814*,sp_collection37_1,WR2F2B-7,WR2F2B-7,WR2F2,spizizenii,Free,4070,High,Above 800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,sp_Ecotype5
+CBP-1805*,sp_collection37_2,WR2F2B-10,WR2F2B-10,WR2F2,spizizenii,Free,4070,High,Above 800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,sp_Ecotype5
+CBP-1811*,sp_collection37_3,WR2F2B-16,WR2F2B-16,WR2F2,spizizenii,Free,4070,High,Above 800 m,36,25.468,117,11.422,27-May-10,36.42446667,-117.1903667,4098.2,4070,sp_Ecotype2
+CBP-1910*,sp_collection38_1,S10C9,S10C9,S10C,spizizenii,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,sp_Ecotype5
+CBP-1823*,sp_collection38_2,S10C-1,S10C-1,S10C,spizizenii,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,sp_Ecotype5
+CBP-2392,sp_collection38_2,S10C1,S10C1,S10C,spizizenii,Free,-247.8,Low,Below 0 m,36,17.089,116,53.541,,36.28481667,-116.89235,-247.8,-247.8,
+CBP-1885*,sp_collection40_1,S8C-4,S8C-4,S8C,spizizenii,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,sp_Ecotype4
+CBP-1887*,sp_collection40_2,S8C-6,S8C-6,S8C,spizizenii,Free,-250.1,Low,Below 0 m,36,17.094,116,53.523,,36.2849,-116.89205,-250.1,-250.1,sp_Ecotype4
+CBP-2401*,sp_collection43_1,S11C7,S11C7,S11C,spizizenii,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,sp_Ecotype5
+CBP-1920*,sp_collection43_2,S11C4,S11C4,S11C,spizizenii,Free,-246.2,Low,Below 0 m,36,17.092,116,53.555,,36.28486667,-116.8925833,-246.2,-246.2,sp_Ecotype4
+CBP-2193*,sp_collection45_1,16a-2,16a-2,16,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-2195,sp_collection45_2,16b-2,16b-2,16,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2250*,sp_collection45_2,16B2,16B2,16,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2251,sp_collection45_2,16B3,16B3,16,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2196*,sp_collection45_3,16b-3,16b-3,16,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2295*,sp_collection51_1,M8B7,M8B7,M8B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2296,sp_collection51_1,M8B8,M8B8,M8B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2338,sp_collection54_1,N18A19,N18A19,N18A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2340,sp_collection54_1,N18A21,N18A21,N18A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,
+CBP-2336*,sp_collection54_2,N18A17,N18A17,N18A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype1
+CBP-2366*,sp_collection55_1,N9A9I,N9A9I,N9A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2365*,sp_collection55_2,N9A9,N9A9,N9A,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype5
+CBP-2376*,sp_collection56_1,N9B26,N9B26,N9B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2377*,sp_collection56_2,N9B27,N9B27,N9B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2369*,sp_collection56_3,N9B19,N9B19,N9B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2367*,sp_collection56_4,N9B17,N9B17,N9B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2374*,sp_collection56_5,N9B24,N9B24,N9B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2433*,sp_collection57_1,S18C3,S18C3,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype4
+CBP-2431*,sp_collection57_2,S18C14,S18C14,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype4
+CBP-2434*,sp_collection57_3,S18C4,S18C4,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype4
+CBP-2435*,sp_collection57_4,S18C5,S18C5,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype5
+CBP-2427*,sp_collection57_5,S18C10,S18C10,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype5
+CBP-2436*,sp_collection57_6,S18C6,S18C6,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype5
+CBP-2438*,sp_collection57_7,S18C9,S18C9,S18C,spizizenii,Free,-227.3,Low,Below 0 m,36,17.1,116,53.667,,36.285,-116.89445,-227.3,-227.3,sp_Ecotype4
+CBP-2495*,sp_collection65_1,T18B4,T18B4,T18B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2494*,sp_collection65_2,T18B3,T18B3,T18B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2528*,sp_collection68_1,T5B2,T5B2,T5B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2535*,sp_collection68_2,T5B9,T5B9,T5B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2531*,sp_collection68_3,T5B5,T5B5,T5B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2533*,sp_collection68_4,T5B7,T5B7,T5B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2526*,sp_collection68_5,T5B1,T5B1,T5B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2527*,sp_collection68_6,T5B10,T5B10,T5B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-3079*,sp_collection70_1,EC30O4N-B1,EC30O4N-B1,EC30O4,spizizenii,Opuntia,3038,High,Above 800 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,sp_Ecotype4
+CBP-3033*,sp_collection70_2,EC30O4N-B4-1,EC30O4N-B4-1,EC30O4,spizizenii,Opuntia,3038,High,Above 800 m,36,27.767,117,12.485,1-Jun-17,36.46278333,-117.2080833,3051.8,3038,sp_Ecotype4
+CBP-3031*,sp_collection74_1,EC30O3B-G1,EC30O3B-G1,EC30O3FREE,spizizenii,Free,3058,High,Above 800 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,sp_Ecotype5
+CBP-3032*,sp_collection74_2,EC30O3B-G3-1,EC30O3B-G3-1,EC30O3FREE,spizizenii,Free,3058,High,Above 800 m,36,27.76,117,12.482,1-Jun-17,36.46266667,-117.2080333,3056.8,3058,sp_Ecotype5
+CBP-1700,sp_collection81_1,WR1F3B-7,WR1F3B-7,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,
+CBP-1701,sp_collection81_1,WR1F3B-7m,WR1F3B-7m,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,
+CBP-1696*,sp_collection81_2,WR1F3B-10,WR1F3B-10,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,sp_Ecotype5
+CBP-1697,sp_collection81_2,WR1F3B-10m,WR1F3B-10m,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,
+CBP-1698,sp_collection81_3,WR1F3B-11,WR1F3B-11,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,
+CBP-1699,sp_collection81_3,WR1F3B-11m,WR1F3B-11m,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,
+CBP-1704*,sp_collection81_4,WR1FB-1m,WR1F3B-1m,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,sp_Ecotype5
+CBP-1702*,sp_collection81_5,WR1F3B-8,WR1F3B-8,WR1F3,spizizenii,Free,2992,High,Above 800 m,36,27.918,117,12.494,27-May-10,36.4653,-117.2082333,3011.6,2992,sp_Ecotype4
+CBP-1705*,sp_collection82_1,WR201A-1,WR2O1A-1,WR2O1,spizizenii,Opuntia,4071,High,Above 800 m,36,25.466,117,11.417,27-May-10,36.42443333,-117.1902833,4099,4071,sp_Ecotype5
+CBP-1706,sp_collection82_1,WR201A-1m,WR2O1A-1m,WR2O1,spizizenii,Opuntia,4071,High,Above 800 m,36,25.466,117,11.417,27-May-10,36.42443333,-117.1902833,4099,4071,
+CBP-1817*,sp_collection82_2,WR2O1B-15,WR2O1B-15,WR2O1,spizizenii,Opuntia,4071,High,Above 800 m,36,25.466,117,11.417,27-May-10,36.42443333,-117.1902833,4099,4071,sp_Ecotype4
+CBP-1844*,sp_collection84_1,S4B-4,S4B-4,S4B,spizizenii,Free,-255.1,Low,Below 0 m,36,17.095,116,53.455,,36.28491667,-116.8909167,-255.1,-255.1,sp_Ecotype5
+CBP-2451*,sp_collection84_2,S4B4,S4B4,S4B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype5
+CBP-1843*,sp_collection84_3,S4B-2,S4B-2,S4B,spizizenii,Free,-255.1,Low,Below 0 m,36,17.095,116,53.455,,36.28491667,-116.8909167,-255.1,-255.1,sp_Ecotype5
+CBP-2410*,sp_collection87_1,S12C8,S12C8,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype5
+CBP-2406*,sp_collection87_2,S12C14,S12C14,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype5
+CBP-1923*,sp_collection87_3,S12B1,S12B1,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype4
+CBP-1932,sp_collection87_3,S12C5,S12C5,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,
+CBP-2408,sp_collection87_3,S12C6,S12C6,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,
+CBP-1928*,sp_collection87_4,S12C1,S12C1,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype4
+CBP-2405*,sp_collection87_5,S12C13,S12C13,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype5
+CBP-2409*,sp_collection87_6,S12C7,S12C7,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype5
+CBP-2403*,sp_collection87_7,S12C10,S12C10,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype4
+CBP-2404*,sp_collection87_8,S12C11,S12C11,S12C,spizizenii,Free,-244.4,Low,Below 0 m,36,17.092,116,53.564,,36.28486667,-116.8927333,-244.4,-244.4,sp_Ecotype5
+CBP-2412*,sp_collection89_1,S13C11,S13C11,S13C,spizizenii,Free,-240,Low,Below 0 m,36,17.092,116,53.582,,36.28486667,-116.8930333,-240,-240,sp_Ecotype5
+CBP-1935*,sp_collection89_2,S13C2M,S13C2M,S13C,spizizenii,Free,-240,Low,Below 0 m,36,17.092,116,53.582,,36.28486667,-116.8930333,-240,-240,sp_Ecotype5
+CBP-2414*,sp_collection89_3,S13C8,S13C8,S13C,spizizenii,Free,-240,Low,Below 0 m,36,17.092,116,53.582,,36.28486667,-116.8930333,-240,-240,sp_Ecotype3
+CBP-1933*,sp_collection89_4,S13C1,S13C1,S13C,spizizenii,Free,-240,Low,Below 0 m,36,17.092,116,53.582,,36.28486667,-116.8930333,-240,-240,sp_Ecotype5
+CBP-1949*,sp_collection91_1,S14C2F,S14C2F,S14C,spizizenii,Free,-236.9,Low,Below 0 m,36,17.092,116,53.599,,36.28486667,-116.8933167,-236.9,-236.9,sp_Ecotype4
+CBP-1947*,sp_collection91_2,S14C1I,S14C1I,S14C,spizizenii,Free,-236.9,Low,Below 0 m,36,17.092,116,53.599,,36.28486667,-116.8933167,-236.9,-236.9,sp_Ecotype5
+CBP-1948*,sp_collection91_3,S14C1II,S14C1II,S14C,spizizenii,Free,-236.9,Low,Below 0 m,36,17.092,116,53.599,,36.28486667,-116.8933167,-236.9,-236.9,sp_Ecotype4
+CBP-1950,sp_collection91_3,S14C2M,S14C2M,S14C,spizizenii,Free,-236.9,Low,Below 0 m,36,17.092,116,53.599,,36.28486667,-116.8933167,-236.9,-236.9,
+CBP-1965*,sp_collection93_1,S16B5,S16B5,S16B,spizizenii,Free,-232.7,Low,Below 0 m,36,17.092,116,53.637,,36.28486667,-116.89395,-232.7,-232.7,sp_Ecotype4
+CBP-2419*,sp_collection93_2,S16B1,S16B1,S16B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-1978*,sp_collection94_1,S17C4,S17C4,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype4
+CBP-2423*,sp_collection94_2,S17C3,S17C3,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype5
+CBP-1976*,sp_collection94_3,S17C1M,S17C1M,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype5
+CBP-1975*,sp_collection94_4,S17C1F,S17C1F,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype5
+CBP-1980*,sp_collection94_5,S17C6,S17C6,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype5
+CBP-2425*,sp_collection94_6,S17C8,S17C8,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype5
+CBP-2424*,sp_collection94_7,S17C7,S17C7,S17C,spizizenii,Free,-229.4,Low,Below 0 m,36,17.098,116,53.654,,36.28496667,-116.8942333,-229.4,-229.4,sp_Ecotype5
+CBP-1987*,sp_collection95_1,N10b1,N10b1,N10B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-1990*,sp_collection95_2,N10B3M,N10B3M,N10B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-1992*,sp_collection95_3,N10B4M,N10B4M,N10B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-1991*,sp_collection95_4,N10b4,N10b4,N10B,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype5
+CBP-2122*,sp_collection96_01,WR1O2B-53,WR1O2B-53,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2134*,sp_collection96_02,WR1O2B-67,WR1O2B-67,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2113*,sp_collection96_03,WR1O2A-52,WR1O2A-52,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2115,sp_collection96_03,WR1O2A-54,WR1O2A-54,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2116,sp_collection96_03,WR1O2A-55,WR1O2A-55,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2117,sp_collection96_03,WR1O2A-56,WR1O2A-56,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2118,sp_collection96_03,WR1O2A-57,WR1O2A-57,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2119,sp_collection96_03,WR1O2A-58,WR1O2A-58,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2123,sp_collection96_03,WR1O2B-54,WR1O2B-54,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2124,sp_collection96_03,WR1O2B-56,WR1O2B-56,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2125,sp_collection96_03,WR1O2B-57,WR1O2B-57,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2126,sp_collection96_03,WR1O2B-58,WR1O2B-58,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2128,sp_collection96_03,WR1O2B-61,WR1O2B-61,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2133,sp_collection96_03,WR1O2B-66,WR1O2B-66,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2137,sp_collection96_03,WR1O2B-70,WR1O2B-70,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2142,sp_collection96_03,WR1O2B-75,WR1O2B-75,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2143,sp_collection96_03,WR1O2B-76,WR1O2B-76,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2147,sp_collection96_03,WR1O2B-80,WR1O2B-80,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2148,sp_collection96_03,WR1O2C-51,WR1O2C-51,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2153,sp_collection96_03,WR1O2C-60B,WR1O2C-60B,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2154,sp_collection96_03,WR1O2C-61,WR1O2C-61,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2114*,sp_collection96_04,WR1O2A-53,WR1O2A-53,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype3
+CBP-2146,sp_collection96_04,WR1O2B-79,WR1O2B-79,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2149,sp_collection96_04,WR1O2C-52,WR1O2C-52,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2151,sp_collection96_04,WR1O2C-55,WR1O2C-55,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,
+CBP-2121*,sp_collection96_05,WR1O2B-51,WR1O2B-51,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2140*,sp_collection96_06,WR1O2B-73,WR1O2B-73,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2130*,sp_collection96_07,WR1O2B-63,WR1O2B-63,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2150*,sp_collection96_08,WR1O2C-54,WR1O2C-54,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2127*,sp_collection96_09,WR1O2B-59,WR1O2B-59,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2141*,sp_collection96_10,WR1O2B-74,WR1O2B-74,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2136*,sp_collection96_11,WR1O2B-69,WR1O2B-69,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2129*,sp_collection96_12,WR1O2B-62,WR1O2B-62,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2138*,sp_collection96_13,WR1O2B-71,WR1O2B-71,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2145*,sp_collection96_14,WR1O2B-78,WR1O2B-78,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2155*,sp_collection96_15,WR1O2C-62,WR1O2C-62,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2135*,sp_collection96_16,WR1O2B-68,WR1O2B-68,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype3
+CBP-2144*,sp_collection96_17,WR1O2B-77,WR1O2B-77,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2131*,sp_collection96_18,WR1O2B-64,WR1O2B-64,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2139*,sp_collection96_19,WR1O2B-72,WR1O2B-72,WR1O2,spizizenii,Opuntia,2983,High,Above 800 m,36,27.922,117,12.495,27-May-10,36.46536667,-117.20825,3009.3,2983,sp_Ecotype4
+CBP-2163*,sp_collection97_1,101-2,101-2,101,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2164*,sp_collection97_2,101-3,101-3,101,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-2165*,sp_collection97_3,101-4,101-4,101,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2170*,sp_collection98_1,102-5,102-5,102,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-2171,sp_collection98_1,102-6,102-6,102,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,
+CBP-2200*,sp_collection99_1,19b-3a,19b-3a,19,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,sp_Ecotype4
+CBP-2202,sp_collection99_1,19b-4,19b-4,19,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,
+CBP-2205,sp_collection99_1,19b-7,19b-7,19,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,,
+CBP-2203*,sp_collection99_2,19b-5,19b-5,19,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
+CBP-2198*,sp_collection99_3,19b-1,19b-1,19,spizizenii,Free,-260,Low,Below 0 m,,,,,,,,,*,sp_Ecotype4
