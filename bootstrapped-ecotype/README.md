@@ -8,6 +8,5 @@ Before bootstrapping ecotypes, you need
 - rarefaction results (in .xml)
 
 Instructions for running bootstrapped ecotype program
-- Run `Bootstrapped.py` to caculate boostrap scores for all demarcated ecotypes based on rarefaction results
-- Run `AddNodeLabel.py` to add bootstrapped ecotype scores to the phylogenetic tree and output an annotated tree in nhx format
+- Run `Bootstrapped.py` to caculate boostrap scores for all demarcated ecotypes based on rarefaction results and add bootstrapped ecotype scores to the phylogenetic tree and output an annotated tree in nhx format
 - Run `PlotTree.R` to plot the phylogenetic tree with all additional information
